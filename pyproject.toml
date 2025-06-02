@@ -24,5 +24,5 @@ classifiers = [
 ]
 
 [project.urls]
-"Homepage" = "https://github.com/ravipangali/django_sitestatus"
-"Repository" = "https://github.com/ravipangali/django_sitestatus"
+"Homepage" = "https://github.com/ravipangali/RaviPangali-Site-Status-Attacker"
+"Repository" = "https://github.com/ravipangali/RaviPangali-Site-Status-Attacker"

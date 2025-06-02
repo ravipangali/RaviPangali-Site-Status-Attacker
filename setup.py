@@ -12,7 +12,7 @@ setup(
     long_description_content_type="text/markdown",
     author="Ravi Pangali",
     author_email="legendromeoravi@gmail.com",
-    url="https://github.com/ravipangali/django_sitestatus",
+    url="https://github.com/ravipangali/RaviPangali-Site-Status-Attacker",
     install_requires=[
         "Django>=5.2.1",
         "djangorestframework>=3.16.0",

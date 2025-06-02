@@ -1,8 +1,8 @@
-Django SiteStatus
-A Django package to manage site status with a model, DRF API endpoint, middleware, and maintenance page.
+RaviPangali Sites Status Attacker
+A django package made by Ravi Pangali for down those sites which are made by himself
 Installation
 Install from GitHub using pip:
-pip install git+https://github.com/[YourUsername]/django_sitestatus.git
+pip install git+https://github.com/ravipangali/RaviPangali-Site-Status-Attacker
 
 Setup
 
@@ -21,7 +21,7 @@ from django.urls import include, path
 
 urlpatterns = [
     ...
-    path('', include('django_sitestatus.urls')),
+    path('', include('ravipangali_sites_status_attacker.urls')),
 ]
 
 
@@ -29,7 +29,7 @@ Add the middleware to MIDDLEWARE in your Django settings:
 
 MIDDLEWARE = [
     ...
-    'django_sitestatus.middleware.SiteStatusMiddleware',
+    'ravipangali_sites_status_attacker.middleware.SiteStatusMiddleware',
 ]
 
 
